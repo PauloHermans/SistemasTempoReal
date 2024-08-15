@@ -5,13 +5,9 @@ Para os dois primeiros exercícios, é extraído o valor apresentado no console 
 Exercício 1)
 
 execution time : 0.016 s
-
 execution time : 0.016 s
-
 execution time : 0.016 s
-
 execution time : 0.016 s
-
 execution time : 0.016 s
 
 Exercício 2)
